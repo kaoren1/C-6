@@ -1,0 +1,3 @@
+﻿  PR6C.cpp
+C:\Users\Ярослав\source\repos\PR6C\PR6C\PR6C.cpp(105,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PR6C.vcxproj -> C:\Users\Ярослав\source\repos\PR6C\x64\Debug\PR6C.exe
